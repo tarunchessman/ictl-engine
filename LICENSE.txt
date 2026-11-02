@@ -1,0 +1,7 @@
+This distribution interfaces with Stockfish 18, which is free software released 
+under the GNU General Public License v3 (GPLv3).
+
+You may redistribute and/or modify it under the terms of the GNU General 
+Public License as published by the Free Software Foundation.
+
+Full GPLv3 License text: https://www.gnu.org/licenses/gpl-3.0.html

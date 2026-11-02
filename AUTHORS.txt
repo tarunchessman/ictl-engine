@@ -1,0 +1,8 @@
+Stockfish is an open-source UCI chess engine.
+Copyright (C) 2008-2026 The Stockfish Developers
+
+Stockfish was created by Tord Romstad, Marco Costalba, and Joona Kiiski.
+It is actively developed and maintained by the Stockfish open-source community.
+
+For full source code, contributions, and project history, visit:
+https://github.com/official-stockfish/Stockfish
